@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/boilerplate-react/static/js/main.66ab97d2.js",
+    "static/js/787.6cebb76b.chunk.js": "/boilerplate-react/static/js/787.6cebb76b.chunk.js",
+    "index.html": "/boilerplate-react/index.html",
+    "main.66ab97d2.js.map": "/boilerplate-react/static/js/main.66ab97d2.js.map",
+    "787.6cebb76b.chunk.js.map": "/boilerplate-react/static/js/787.6cebb76b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.66ab97d2.js"
+  ]
+}
